@@ -1,9 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@layer components {
-  .textsss {
-    @apply sm:text-color-1 sm:text-fontss lg:text-color-2 text-fontss-1 ;
-  }
-}
